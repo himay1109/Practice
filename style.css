@@ -1,0 +1,40 @@
+
+table,td,th{
+
+    border:  3px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    
+}
+table{
+    width: 800px;
+    height: 300px;
+}
+h1{
+    font-family: 'Lilita One', cursive;
+    font-size: 50px;
+    color: rgb(255, 243, 72);
+}
+td{
+    font-family: 'Lilita One', cursive;
+    font-size: 20px;
+    text-align: center;
+    
+    color: rgb(17, 157, 162);
+}
+
+th{
+    font-family: 'Lilita One', cursive;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/18/931/806/real-madrid-sport-soccer-football-hd-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cred{
+    color: blueviolet;
+}
